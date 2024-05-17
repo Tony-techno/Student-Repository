@@ -1,1 +1,1 @@
-# Student-Repository
+The goal of the Student-Repository project is to oversee and preserve an extensive database of academic data about students. It makes effective student record retrieval, storage, and modification possible. This program helps educational institutions streamline student information management and data-driven decision-making by allowing them to track student performance and provide complete academic reports.
